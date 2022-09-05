@@ -2,6 +2,8 @@ Prima modifica
 Altra modifica
 Terza modifica
 
+Altra modifica su branch mioBranch
+
 
 #include "TestClass.h"
 
