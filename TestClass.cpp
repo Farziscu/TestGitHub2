@@ -9,6 +9,8 @@ Nuovo su main
 
 nuovo su mioBranch
 
+su nuovo branch mioBranch2
+
 
 #include "TestClass.h"
 
